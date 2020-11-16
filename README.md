@@ -1,7 +1,7 @@
 Programa em python para consultas aos rastreamentos do site [Melhor Rastreio](https://www.melhorrastreio.com.br/) e [Melhor Envio](https://melhorenvio.com.br/)
 
 # Como Usar
-Clone este repositório para seu computador e import a função `track_melhor_rastreio` do arquivo `python_melhor_rastreio.py`
+Clone este repositório para seu computador e importe a função `track_melhor_rastreio` do arquivo `python_melhor_rastreio.py`
 
 Use a função com a URL do rastreamento ou somente com o código de rastreamento
 
